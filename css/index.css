@@ -17,3 +17,14 @@ html {
 *, *:before, *:after {
 	box-sizing: inherit;
 }
+
+.btn {
+	background-color: blue;
+	color: black;
+	font-weight: bold;
+	text-decoration: none;
+	padding: .5em 1em;
+	border-radius: 5px;
+	display: inline-block;
+	margin: .5em;
+}
