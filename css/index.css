@@ -19,7 +19,7 @@ html {
 }
 
 .btn {
-	background-color: blue;
+	background-color: #D18A8A;
 	color: black;
 	font-weight: bold;
 	text-decoration: none;
@@ -27,4 +27,26 @@ html {
 	border-radius: 5px;
 	display: inline-block;
 	margin: .5em;
+}
+
+.btn:hover,
+.btn:active,
+.btn:focus{
+	background-color: #E4C1C1;
+}
+
+.head {
+	color: #8D8A8A;
+	text-align: center;
+}
+
+.allshapes {
+	text-align: center;
+}
+
+
+.btn i{
+	vertical-align: middle;
+	padding-right: 1em;
+	padding-left: 1em;
 }
