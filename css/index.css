@@ -33,6 +33,7 @@ html {
 .btn:active,
 .btn:focus{
 	background-color: #E4C1C1;
+	color:white;
 }
 
 .head {
