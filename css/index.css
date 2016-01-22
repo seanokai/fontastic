@@ -27,6 +27,7 @@ html {
 	border-radius: 5px;
 	display: inline-block;
 	margin: .5em;
+	 
 }
 
 .btn:hover,
@@ -41,13 +42,14 @@ html {
 	text-align: center;
 }
 
-.allshapes {
-	text-align: center;
-}
 
 
 .btn i{
 	vertical-align: middle;
 	padding-right: 1em;
 	padding-left: 1em;
+}
+
+.links-box {
+	display: inline-block;
 }
